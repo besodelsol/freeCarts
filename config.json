@@ -1,6 +1,7 @@
 {
-    "server": "Server ID / guild ID",
-    "privateChannel": "This is the ID of a hidden channel, normal members should NOT be able to see this",
-    "publicChannel": "This is the ID of a  public channel, 'everyone' SHOULD be able to see this",
-    "botToken": "Bot login token"
+    "server":498264503230660619 ",
+    "privateChannel": "498264503230660619",
+    "publicChannel": "499517033709305859",
+    "botToken": "NDk5NTEyNzkyNzIyOTY0NDgw.Dp9f5w.CIesKXWF2fa03c_6GYYBrm0_XHw
+"
 }
